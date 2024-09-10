@@ -10,15 +10,6 @@
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-       
-🛠️ Tools<br/>
-<img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
-<img src="https://img.shields.io/badge/studio3t-17AF66?style=for-the-badge&logo=studio3t&logoColor=white">
-<img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
-<img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  
-![Siwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctsiwonnim&show_icons=true&theme=merko)
 
 ## ✉️Contacts
 🐣 About Me<br/>
